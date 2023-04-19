@@ -1,0 +1,19 @@
+{
+  "name": "project-zero",
+  "version": "1.0.0",
+  "description": "Making tech less addictive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rupamthxt/project_zero.git"
+  },
+  "author": "Rupam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rupamthxt/project_zero/issues"
+  },
+  "homepage": "https://github.com/Rupamthxt/project_zero#readme"
+}
